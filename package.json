@@ -1,0 +1,26 @@
+{
+  "name": "dj-spring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikkel-ol/dj-spring.git"
+  },
+  "author": "scalz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikkel-ol/dj-spring/issues"
+  },
+  "homepage": "https://github.com/mikkel-ol/dj-spring#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.4.0",
+    "console-stamp": "^0.2.9",
+    "discord.js": "^12.5.1",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^4.4.5"
+  }
+}
